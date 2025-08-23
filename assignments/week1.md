@@ -1,7 +1,7 @@
 ## Due before class on Wednesday, 2/19
 
 ### **Getting Situated** 
-* **Join our class Discord server** (check your City Tech email for the invite link. If you did not receive it, email me at IPokorny@citytech.cuny.edu)       
+* **Join our class Discord server** (check your City Tech email for the invite link. If you did not receive it, email me at OFER.SHOUVAL11@citytech.cuny.edu)       
 * **Download & Install [Visual Studio Code](https://code.visualstudio.com)**
 * **Install [p5.js extension for VS Code](https://marketplace.visualstudio.com/items?itemName=samplavigne.p5-vscode).**
 * **[Review our syllabus](https://github.com/entertainmenttechnology/Shouval_MTEC_1201_D_30_Shouval_FA25/tree/main/syllabus)** and familiarize yourself with the plan and protocols. If you have questions, send me a DM (direct message) on Discord.  
