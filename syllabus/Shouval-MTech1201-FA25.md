@@ -162,7 +162,9 @@ TECHNIQUE
 * Version control with Git and managing a GitHub repository   
 
 **NO CLASS SESSION - 9/24**
+
 **NO CLASS SESSION - 10/1**
+
 **SESSION 5: [10/7]**   
 TOPIC   
 * Time-Based Media, Strategies for Animation  
