@@ -118,3 +118,139 @@ _The topics and schedule are subject to change as needed. Assignment details and
   
 
 
+**SESSION 1: [8/27]**   
+TOPIC   
+* Introductions   
+* Course Overview   
+* What is Computational Art and Design?
+* Exploring the p5.js library 
+
+**SESSION 2: [9/3]**   
+TOPIC   
+* Drawing with Algorithms: Instructions-Based Art and Design
+* Code Editor and File Structure Basics
+ 
+TECHNIQUE   
+* Introduction to Visual Studio Code
+* Introduction to .js, .html, .css files and structure 
+* Introduction to programming structure, comments, syntax  
+* Drawing with the p5.js library: coordinates, points, lines, primitives, colors  
+  
+**SESSION 3: [9/10]**   
+TOPIC   
+* Interactive Images and User Input   
+
+TECHNIQUE       
+* Program flow: setup() and draw(), code blocks 
+* Variables- data types, declaration, initialization   
+* Variable scope (global, block, function)   
+* Operators: arithmetic (including modulus), boolean, comparison  
+* Basic user input using mouse and keyboard 
+
+
+**SESSION 4: [9/17]**   
+TOPIC   
+* The "If" Conditions for Interactivity  
+* Creating Uncertainty 
+* Introduction to Git and GitHub
+
+TECHNIQUE   
+* Conditional statements  
+* Random function  
+* Event functions 
+* Intro to flow charting and designing for interactivity
+* Version control with Git and managing a GitHub repository   
+
+**NO CLASS SESSION - 9/24**
+**NO CLASS SESSION - 10/1**
+**SESSION 5: [10/7]**   
+TOPIC   
+* Time-Based Media, Strategies for Animation  
+* Introduction to Midterm Projects  
+
+TECHNIQUE      
+* Loading external media assets: images and fonts 
+* Working with motion: speed, direction, translation, easing, and interpolation 
+* Variable incrementation and de-incrementation 
+* System clock, millis(), one-time + repeating timers 
+
+**SESSION 6: [10/15]**   
+TOPIC  
+* Functions and Modularity 
+* Programming State Changes Part 1 
+* Interface review- graphical buttons, overlay triggers, etc.   
+  
+TECHNIQUE
+* Creating user-defined functions  
+* Function arguments and parameters  
+* Return statement  
+* Coding state changes  
+
+
+**SESSION 7: [10/22]**   
+TOPIC    
+* Review and Special Topics Related to Midterm (By Request)  
+* Playtesting Midterm WIP 
+
+TECHNIQUE     
+* Review and special topics   
+
+**SESSION 8: [10/29]**   
+TOPIC       
+* Midterm Project Presentations  
+ 
+TECHNIQUE   
+* Critique of midterm projects
+
+**SESSION 9: [11/5]**   
+TOPIC   
+* Iteration + Patterns
+
+TECHNIQUE 
+* While and for loops  
+   
+  
+**SESSION 10: [11/12]**     
+TOPIC
+* Storing Data in Arrays
+   
+TECHNIQUE
+* Working with Arrays
+   
+**SESSION 11: [11/19]**   
+TOPIC   
+* Introduction to Object Oriented Programming
+* Introduction to Final Projects 
+             
+TECHNIQUE  
+* Objects and classes  
+* Constructor and methods 
+* Arrays of objects     
+
+**SESSION 12: [11/26]**      
+TOPIC             
+* OOP "Remix" / OOP Review Continued  
+* Working with Libraries  
+* p5 Sound Library 
+      
+TECHNIQUE   
+* Constructing and deconstructing OOP classes, Continued   
+* Implementing libraries   
+
+
+**SESSION 13: [12/3]**    
+TOPIC             
+* Playtesting and Work-in-Progress Critiques for Final Projects  
+* Special Topics TBD / Review
+   
+          
+**SESSION 14: [12/10]**    
+TOPIC   
+* Playtesting and Work-in-Progress Critiques for Final Projects  
+* Special Topics TBD / Review
+  
+
+**SESSION 15: [12/17]**    
+TOPIC   
+* **FINAL PROJECTS DUE: Project Presentations / Critiques**
+
