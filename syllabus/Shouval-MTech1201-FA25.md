@@ -12,7 +12,7 @@ Professor: Ofer Shouval
 When: Wednesdays, 10:00am - 1:40pm    
 Modality: Fully in person    
 Location: Voorhees V103B   
-Course site: [\[this GitHub repo\]](https://github.com/entertainmenttechnology/Pokorny-MTEC1201_D10-Fall2025)                  
+Course site: [\[this GitHub repo\]](https://github.com/entertainmenttechnology/Shouval_MTEC_1201_D_30_Shouval_FA25)               
 Discord: See email invitation    
 Email: OFER.SHOUVAL11@citytech.cuny.edu   
 Office hours: Thursday 2pm-4pm (via Zoom or Discord), and by appointment outside of listed hours.      
