@@ -1,4 +1,4 @@
-## Due before class on Friday, 9/5
+## Due before class on Wednesday, 9/3
 
 ### **Getting Situated** 
 * **Join our class Discord server** (check your City Tech email for the invite link. If you did not receive it, email me at OFER.SHOUVAL11@citytech.cuny.edu)       
