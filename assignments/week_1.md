@@ -16,7 +16,7 @@
 ### **Optional/Recommended**  
 I highly recommend reading ["What is Code?" by Paul Ford](https://www.bloomberg.com/graphics/2015-paul-ford-what-is-code). This interactive article came out in 2015 and is considered a masterpiece by many software developers. It is long. It can take a few hours to read, if really soaking it in, versus skimming through it quickly. At least skim it, slowing down when finding new concepts. But it's worth really taking your time with it, investing a few hours. If you have already read it, I still recommend revisiting it! The code for this article is open source and still actively maintained, though you may come across a bug here and there. (If you find a bug, you can [submit it here](https://github.com/BloombergGraphics/whatiscode)). 
 
-## What we Looked At  
+## What we would have looked at if the internet worked:  
 [How to Draw with Code](https://www.youtube.com/watch?v=_8DMEHxOLQE), from the now defunct [Creator's Project](https://www.vice.com/en/topic/the-creators-project) mini-doc series, featuring [Casey Reas](https://reas.com/) and [Processing](https://processing.org/).       
   
 [Welcome to p5.js Interactive Video](https://hello.p5js.org/).  
