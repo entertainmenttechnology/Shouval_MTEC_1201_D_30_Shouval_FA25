@@ -51,8 +51,4 @@ For video tutorials relating to this week's topics, check out The Coding Train:
 * [Color](https://thecodingtrain.com/tracks/code-programming-with-p5-js/code/1-intro/4-color)
 * [Comments](https://thecodingtrain.com/tracks/code-programming-with-p5-js/code/1-intro/6-comments)
 
-Play around with Adobe Color for selecting R, G, B colors and palettes for your sketches.
 
-Want to get deeper into color theory? Check out this short article Understanding Color: a Visual Guide.
-
-Creative Coding Spotlight...
