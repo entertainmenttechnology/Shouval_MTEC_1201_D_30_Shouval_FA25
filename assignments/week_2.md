@@ -1,4 +1,4 @@
-## Due before class on Wednesday, 9/12
+## Due before class on Wednesday, 9/10
 
 ### Familiarize Yourself with the following resources on the p5.js website:
 * p5.js [reference](https://p5js.org/reference/)
