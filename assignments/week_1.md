@@ -1,11 +1,10 @@
 ## Due before class on Wednesday, 9/3
 
 ### **Getting Situated** 
-* **Join our class Discord server** https://discord.gg/3GKReRRMdk OFER.SHOUVAL11@citytech.cuny.edu)       
+* **Join our class [Discord Server](https://discord.gg/3GKReRRMdk)**        
 * **Download & Install [Visual Studio Code](https://code.visualstudio.com)**
 * **Install [p5.js extension for VS Code](https://marketplace.visualstudio.com/items?itemName=samplavigne.p5-vscode).**
 * **[Review our syllabus](https://github.com/entertainmenttechnology/Shouval_MTEC_1201_D_30_Shouval_FA25/edit/main/syllabus/Shouval-MTech1201-FA25.md)** and familiarize yourself with the plan and protocols. If you have questions, send me a DM (direct message) on Discord.  
-* **Review your schedule** and allocate blocks of time for our class and outside homework. For this class, most assignments should take 3-5 hours. If more ambitious with the work, you may need more time than this, especially around midterm and finals when developing larger projects.  
 
 
 ### **Explore**   
