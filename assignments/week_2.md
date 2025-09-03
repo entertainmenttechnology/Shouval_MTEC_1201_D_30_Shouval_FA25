@@ -23,12 +23,12 @@ Check out this [color tutorial](https://archive.p5js.org/learn/color.html)
 Shape:
 * In the "Shape" category, review all functions under "2D primitives" in the p5.js reference.
 * Review [rectMode()](https://p5js.org/reference/p5/rectMode/).
-* Optional / if feeling ambitious: check out functions under "Curves" and "Vertex" in the reference, along with this curves tutorial. Find the in class demos in our 
+* Optional / if feeling ambitious: check out functions under "Curves" and "Vertex" in the reference, along with this curves tutorial. Find the in class demos in the in-class examples [folder](https://github.com/entertainmenttechnology/Shouval_MTEC_1201_D_30_Shouval_FA25/tree/main/in-class-examples)
 
 ### Short Study #1: Beginning to Draw with Code
 Brainstorm a concept/theme that you would like to explore for a series of drawings made with code, to develop through weekly "short studies" with increasing complexity. For this first sketch of the series, you can choose to either:
 - Create a static drawing using p5.js with 2D primitive shapes
-- Create some kind of drawing tool which allows you to use your mouse to create a drawing of some kind
+- Create some kind of drawing tool which allows a user to create a drawing of some kind using their mouse. 
 
 Projects must include:
 
