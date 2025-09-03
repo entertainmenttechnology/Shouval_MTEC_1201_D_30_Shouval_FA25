@@ -1,3 +1,10 @@
+
+// OferS
+
+// "weird drawing tool"
+// i was just playing around 
+
+
 function setup(){
 
     createCanvas(windowWidth, windowHeight)
