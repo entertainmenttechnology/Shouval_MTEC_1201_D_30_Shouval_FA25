@@ -2,7 +2,7 @@
 
 
 
-## Instructions for Newbies    
+## Instructions for N00BS    
   
 _If you are completely new to GitHub, I recommend using GitHub Desktop, a visual interface that does not require command line and terminal. Please bear with these step by step instructions-- they are long!_  
   
