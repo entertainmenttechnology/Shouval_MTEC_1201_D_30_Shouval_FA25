@@ -1,4 +1,6 @@
-## Week 3 HW Assignment:
+### Week 3 HW Assignment:
+Due next Wednesday, September 17
+
 
 1. Make a Github account, and link it to a folder with the github desktop app. Further instructions [here](https://github.com/entertainmenttechnology/Shouval_MTEC_1201_D_30_Shouval_FA25/tree/main/getting%20started%20with%20github)
 2. Start a new github repository with the title _MTECH1201_Lastname_FirstInitial_. Migrate the previous homework assignment to this github repository
