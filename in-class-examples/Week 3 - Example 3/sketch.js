@@ -24,11 +24,27 @@ let i = map(mouseX,0,width,0,1)
 
 //console.log(r);
 
+
  stroke(col);
  line(pmouseX, pmouseY,mouseX, mouseY);
-
+ 
 //filter(BLUR,2);
 //  fill(col);
 //  ellipse(mouseX, mouseY, 20);
 
+}
+
+function mousePressed(){
+    background(0);   
+    col1= color(random(255), random(255), random(255))
+    col2= color(random(255), random(255), random(255))
+}
+
+function mouseDragged(){
+//  stroke(col);
+//  line(pmouseX, pmouseY,mouseX, mouseY);
+}
+
+function keyPressed(){
+    background(255);  
 }
