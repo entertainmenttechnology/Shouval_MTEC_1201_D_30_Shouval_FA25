@@ -16,7 +16,7 @@ Course site: [\[this GitHub repo\]](https://github.com/entertainmenttechnology/S
 Discord: See email invitation    
 Email: OFER.SHOUVAL11@citytech.cuny.edu   
 Office hours: Thursday 2pm-4pm (via Zoom or Discord), and by appointment outside of listed hours.      
-_Sign up for office hours through Discord DM or Email_
+discord invite link: [https://discord.gg/3GKReRRMdk](url)
 
 ### COURSE DESCRIPTION  
 This course introduces students to foundational programming concepts and techniques, with a focus on coding for creative applications. Students design, develop, and code interactive software experiences integrating computer graphics, image assets, text and fonts, and additional digital media. Programming for Interactive Media is the first in a sequence of coding courses for the Emerging Media Technology program, preparing students for advanced coursework in the program.
