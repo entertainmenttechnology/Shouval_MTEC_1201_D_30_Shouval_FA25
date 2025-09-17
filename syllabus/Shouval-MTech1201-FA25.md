@@ -165,7 +165,7 @@ TECHNIQUE
 
 **NO CLASS SESSION - 10/1**
 
-**SESSION 5: [10/7]**   
+**SESSION 5: [10/8]**   
 TOPIC   
 * Time-Based Media, Strategies for Animation  
 * Introduction to Midterm Projects  
