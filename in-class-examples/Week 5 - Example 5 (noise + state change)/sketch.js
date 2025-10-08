@@ -23,13 +23,13 @@ function draw(){
 
 let x = width * noise(frameCount* 0.01)
 let y = height * noise(frameCount*0.01 +10)
-let r = 360* noise(frameCount*0.05 + 5)
+let r = 360* noise(frameCount*0.01,frameCount*0.01 +10  )
 
 if(dist(x,y, width/4, height/2) < 100){
   
     background(255,100,0)
     textSize(30)
-    fill(255)
+    fill(255,100,0)
     text("Danger, wasp!", width/2, 100)
 
  }
