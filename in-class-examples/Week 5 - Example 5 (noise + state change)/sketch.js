@@ -29,7 +29,7 @@ if(dist(x,y, width/4, height/2) < 100){
   
     background(255,100,0)
     textSize(30)
-    fill(255,100,0)
+    fill(255)
     text("Danger, wasp!", width/2, 100)
 
  }

@@ -27,7 +27,7 @@ function draw(){
 function mousePressed(){
 
 
-  print(noise(10))
+
 }
 
 
