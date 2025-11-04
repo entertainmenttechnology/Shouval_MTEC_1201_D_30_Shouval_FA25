@@ -22,3 +22,5 @@
 [Andy S](https://github.com/a-srivastava13/MTECH1201_Srivastava_A)
 
 [Zachary C](https://github.com/Soveriegn/MTECH1201_Colon_Z.git)
+
+[Aleksander M](https://github.com/Alek8a907usdjk3asd/_MTECH1201_Aleksandr_M)
