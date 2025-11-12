@@ -21,7 +21,7 @@ function draw() {
   for (let x = 0; x < numCols; x++) {
     for (let y = 0; y < numRows; y++) {
 
-      if (mouseX > x * width / numCols && 
+      if(mouseX > x * width / numCols && 
         mouseX < (x + 1) * width / numCols && 
         mouseY > y * height / numRows && 
         mouseY < (y+1) *height / numRows) {
