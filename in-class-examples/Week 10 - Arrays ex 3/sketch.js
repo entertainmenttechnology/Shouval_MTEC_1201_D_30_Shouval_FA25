@@ -2,7 +2,7 @@
 let xLoc = []
 let yLoc = []
 
-let numSegments = 200;
+let numSegments = 100;
 
 let col1;
 let col2;  
@@ -10,6 +10,7 @@ let col2;
 function setup(){
   createCanvas(windowWidth, windowHeight)
 
+ // frameRate(2);
 
   for(let i = 0 ; i<numSegments; i++){
     xLoc[i] = width/2
@@ -29,17 +30,15 @@ function draw(){
 background(0)
 fill(0)
  
- xLoc[numSegments-1] = mouseX
- yLoc[numSegments-1] = mouseY
+//  xLoc[numSegments-1] = mouseX
+//  yLoc[numSegments-1] = mouseY
 
 // xLoc[numSegments-1] = random(width)
 // yLoc[numSegments-1] = random(height)
 
 
-//  xLoc[numSegments-1] = width/2 + map(noise(count), 0,1,20,-20)
-//  yLoc[numSegments-1] = height/2 + map(noise(count +10), 0,1,20,-20)
-
-
+ xLoc[numSegments-1] =  map(noise(count), 0,1,0,width)
+ yLoc[numSegments-1] =  map(noise(count +10), 0,1,0,height)
 
 
 
@@ -59,8 +58,9 @@ fill(0)
       ellipse(xLoc[i], yLoc[i],diameter)
     }
 
-  count += 0.05
+  count += 0.01
 
+  console.log(xLoc)
 }
 
 function mousePressed(){
